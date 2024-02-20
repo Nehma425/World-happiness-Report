@@ -1,4 +1,5 @@
 # World-Happiness-Report
+https://public.tableau.com/views/WorldHappiness2015-2019_17084171857170/WorldHappinessReport2015-2019?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 Data Source: World Happiness Report 2021
 Summary:
 The data source for this project is the World Happiness Report 2021, a comprehensive and authoritative publication that assesses the subjective well-being of individuals across countries. The dataset includes various factors contributing to happiness, such as Ladder score, Standard error of ladder score, Logged GDP per capita, Social support, Healthy life expectancy, Freedom to make life choices, Generosity, Perceptions of corruption, and more. Each entry corresponds to a specific country, making it a rich resource for understanding global happiness trends.
